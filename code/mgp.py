@@ -82,8 +82,7 @@ def main(cont=0):
     https://mathgenealogy.org:8000/api/v2/MGP/graph/edges/
     """
     # [1*]
-    # authdata = getlogin()
-    authdata = {'email':'gyegar01@gmail.com','password':'9238joirnvczxc12sx././2=2]'}
+    authdata = getlogin()
     token = login(authdata)
     endpoint = '/api/v2/MGP/acad/all'
 
