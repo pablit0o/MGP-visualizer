@@ -26,5 +26,5 @@ their sample python script.
 ## References
 [1] Mathematics Genealogy Project, _Mathematics Genealogy Project_ [Online]. Available: https://www.genealogy.math.ndsu.nodak.edu/. [Accessed: Jun. 22, 2026].  
 [2] J. Kun, _math-genealogy-scraper_. Github. [Online]. Available: https://github.com/j2kun/math-genealogy-scraper. [Accessed: Jun. 22, 2026].  
-[3] A. Enright, E. Weisstein, _MGP: Computational Exploration in the Wolfram Language_. [Online]. Available: https://blog.wolfram.com/2018/08/02/computational-exploration-of-the-mathematics-genealogy-project-in-the-wolfram-language/. [Accessed: Jun. 30, 2026].
+[3] A. Enright, E. Weisstein, _MGP: Computational Exploration in the Wolfram Language_. [Online]. Available: https://blog.wolfram.com/2018/08/02/computational-exploration-of-the-mathematics-genealogy-project-in-the-wolfram-language/. [Accessed: Jun. 30, 2026].  
 [4] D. Alber, S. Prescott, S. Schoeps, D. Torrance, _geneagrapher_. Github. [Online]. Available: https://github.com/davidalber/geneagrapher. [Accessed Jul. 2, 2026].
