@@ -12,7 +12,7 @@ from the MGP API. To access it please refer to [1*].
 PROTOCOL = "https"
 HOSTNAME = "mathgenealogy.org"
 PORT = "8000"
-DATA = 'data/mgp_data.json'
+DATA = "data/mgp_data.json"
 
 def getlogin():
     """Get login of user.
@@ -108,4 +108,4 @@ def main(cont=0):
 
 if __name__ == '__main__':
     # Please don't do a while loop. If possible, query the data manually. You will get a runtime error roughly every two hours.
-    main(0)
+    main()
