@@ -96,7 +96,7 @@ def main(cont=0):
 
     # o(n) but takes a long time [2*]
     with open(DATA,'a') as file:
-        for entry in range(cont,len(ID_all)+1): # inclusive
+        for entry in range(cont,len(ID_all)): # inclusive
                 querydata = {"id" : str(ID_all[entry])}
 
                 # Had to brute force impl but works
@@ -108,4 +108,4 @@ def main(cont=0):
 
 if __name__ == '__main__':
     # Please don't do a while loop. If possible, query the data manually. You will get a runtime error roughly every two hours.
-    main(276244)
+    main(0)

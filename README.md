@@ -8,6 +8,8 @@ I initially wanted to use Wikidata for accessing this data, but I stumbled upon 
 
 Most of the functionality is direct applications of graph theory. As such, it was definitely nice seeing some of compsci knowledge coming to fruition. 
 
+Note: References are denoted as [X], while footnotes are denoted [X*].
+
 Anyways, from one genealogy geek to another, enjoy!
 
 ## Dependencies
@@ -16,13 +18,10 @@ Anyways, from one genealogy geek to another, enjoy!
 ## Usage
 ...
 
-The IEEE-style references are denoted as [X], while footnotes are denoted [X*].
-
 ## Footnotes
 [1*] The MGP API can obscurely be accessed through [1] and going over to the 'Contact Us' page. By selecting 'Request access to data for research purposes', you will be redirected to their API. The code can be found when creating an account and downloading
 their sample python script.  
-[2*] The mgp_data.json has data queried from the MGP API on 22-06-2026. It contains 346,140 entries. I wanted to note that at around entry 276,244, the MGP API servers were down for a couple days. I couldn't get any response from their API, so I'd highly advise to just
-download my dataset to avoid overloading their servers. 
+[2*] The mgp_data.json has data queried from the MGP API on 22-06-2026. It contains 318,655 entries. I wanted to note that at around entry 276,244, the MGP API servers were down for a couple days. I couldn't get any response from their API, so I'd highly advise to just download my dataset to avoid overloading their servers. 
 
 ## References
 [1] Mathematics Genealogy Project, _Mathematics Genealogy Project_ [Online]. Available: https://www.genealogy.math.ndsu.nodak.edu/. [Accessed: Jun. 22, 2026].  
